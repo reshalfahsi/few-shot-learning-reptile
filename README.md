@@ -44,7 +44,7 @@ These sets of images visually divulge the qualitative performance of the Reptile
 
 ## Credit
 
-- [Omniglot](https://github.com/brendenlake/omniglot)
+- [Omniglot data set for one-shot learning](https://github.com/brendenlake/omniglot)
 - [Human-level concept learning through probabilistic program induction](https://www.cs.cmu.edu/~rsalakhu/papers/LakeEtAl2015Science.pdf)
 - [The Omniglot challenge: a 3-year progress report](https://arxiv.org/pdf/1902.03477)
 - [Reptile: A scalable meta-learning algorithm](https://openai.com/index/reptile/)
